@@ -1,0 +1,24 @@
+Thumbs.db
+
+# Eclipse
+.project
+.metadata
+bin/**
+.classpath
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# erlang
+ebin/
+db/
+.rebar/
+deps/
+*.o
+*.beam
+*.plt
+erl_crash.dump

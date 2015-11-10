@@ -1,0 +1,4 @@
+-pa ./ebin
+-pa ./deps/rsrc_pool/ebin
+-eval "application:start(mon)"
+-sname node1
